@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Cancer_55_jpg.rf.23496ecbd81c67940e1128139c6b042b.jpg</filename>
+	<path>Cancer_55_jpg.rf.23496ecbd81c67940e1128139c6b042b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

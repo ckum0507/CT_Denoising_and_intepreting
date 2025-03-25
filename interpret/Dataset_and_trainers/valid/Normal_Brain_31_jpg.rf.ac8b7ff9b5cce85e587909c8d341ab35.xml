@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Normal_Brain_31_jpg.rf.ac8b7ff9b5cce85e587909c8d341ab35.jpg</filename>
+	<path>Normal_Brain_31_jpg.rf.ac8b7ff9b5cce85e587909c8d341ab35.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

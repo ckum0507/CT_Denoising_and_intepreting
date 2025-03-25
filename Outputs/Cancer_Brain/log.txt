@@ -1,0 +1,3 @@
+Inference log:
+ResNet-50 Prediction: Cancer | Confidence: 100.00% | Time taken: 0.12 sec
+EfficientNet-B7 Prediction: Cancer | Confidence: 100.00% | Time Taken: 0.04 sec

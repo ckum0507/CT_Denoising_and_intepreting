@@ -1,0 +1,3 @@
+Inference log:
+ResNet-50 Prediction: Normal Brain | Confidence: 94.18% | Time taken: 0.10 sec
+EfficientNet-B7 Prediction: Normal Brain | Confidence: 97.81% | Time Taken: 0.05 sec

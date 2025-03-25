@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Tumour-Glioma_405_jpg.rf.5ba18b54574e28dacb8a7896ddf80f58.jpg</filename>
+	<path>Tumour-Glioma_405_jpg.rf.5ba18b54574e28dacb8a7896ddf80f58.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>

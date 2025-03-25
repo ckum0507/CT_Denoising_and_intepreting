@@ -1,0 +1,16 @@
+<annotation>
+	<folder></folder>
+	<filename>Aneurysm_39_jpg.rf.cf10c50d929f9e0e763342f959a49fdb.jpg</filename>
+	<path>Aneurysm_39_jpg.rf.cf10c50d929f9e0e763342f959a49fdb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<metadata>
+	</metadata>
+</annotation>
