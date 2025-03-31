@@ -1,0 +1,12 @@
+torch torchvision
+pillow
+numpy
+opencv-python
+tkinter
+matplotlib
+scikit-image
+pydicom
+timm
+PyWavelets
+pytest-shutil 
+shutils

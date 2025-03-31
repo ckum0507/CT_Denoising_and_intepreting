@@ -55,8 +55,8 @@ def evaluate_model(model, model_name, image_path, log_file):
     log_file.write(output) 
 
 def upload_image(output_dir, file_path):
-        if not output_dir:
-            os.makedirs(output_dir)
+    if not output_dir:
+        os.makedirs(output_dir)
     log_file_path = os.path.join(output_dir, "log.txt")
 
     with open(log_file_path, "w") as file:
