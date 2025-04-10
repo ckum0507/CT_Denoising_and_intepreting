@@ -1,6 +1,17 @@
+<p align='center'>
 Welcome to our Final Year project!!!
-![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
+</p>
+<p align='center'>
+Comparision of all DnCNN iterations occuring Periodic Denoising
+</p>
+
 ![Alt text](Outputs/Aneurysm_Brain/DnCNN_comparision.png)
+<p align='center'>
+Comparision of all Denoising stages
+</p>
+
+![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
+
 This project contains Denoising of CT images using a hybrid technique of Periodic Denoising and Poisson's Denoising using Denoising Convolutional Neural Network and HNIPM/PRBF algorithms and Interpret the abnormality using ResNet-50 and EfficientNet-B7 algorithms.
 
 All the models are initially trained for Axial CT scan of Human Brain only
