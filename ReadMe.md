@@ -1,16 +1,6 @@
-<p align='center'>
+<h1 align='center'>
 Welcome to our Final Year project!!!
-</p>
-<p align='center'>
-Comparision of all DnCNN iterations occuring Periodic Denoising
-</p>
-
-![Alt text](Outputs/Aneurysm_Brain/DnCNN_comparision.png)
-<p align='center'>
-Comparision of all Denoising stages
-</p>
-
-![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
+</h1>
 
 This project contains Denoising of CT images using a hybrid technique of Periodic Denoising and Poisson's Denoising using Denoising Convolutional Neural Network and HNIPM/PRBF algorithms and Interpret the abnormality using ResNet-50 and EfficientNet-B7 algorithms.
 
@@ -42,3 +32,20 @@ Running the file:
 ```
   python app.py
 ```
+
+Sample Output:
+<p align='center'>
+Comparision of all DnCNN iterations occuring Periodic Denoising
+</p>
+
+![Alt text](Outputs/Aneurysm_Brain/DnCNN_comparision.png)
+<p align='center'>
+Comparision of all Denoising stages
+</p>
+
+![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
+Interpretation using AI models
+
+{raw}
+<include src="Outputs/Aneurysm_Brain/log.txt"/>
+{endraw}
