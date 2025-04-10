@@ -33,6 +33,12 @@ Running the file:
   python app.py
 ```
 
+After this point, the output folder name will be asked, which will be created withing the **Results** directory, followed by a timestamp.
+
+The noisy image and ideal noiseless images will be acquired by selecting them from a dialog box which will be popping up.
+
+The input images will be processed, and the output images with SNR values and the Interpretation log file will be saved in the designated output directory.
+
 Sample Output:
 <p align='center'>
 Comparision of all DnCNN iterations occuring Periodic Denoising
