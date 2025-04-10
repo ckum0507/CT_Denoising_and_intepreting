@@ -253,7 +253,7 @@ output_image_uint8 = turn(hnipm_denoised_resized)
 output_image_path_hnipm=save_as_png(output_dir, f'HNIPM_denoised_output_{psnr_hnipm:.2f}.png', output_image_uint8)
 output_image_uint8 = turn(prbf_denoised_resized)
 output_image_path_prbf=save_as_png(output_dir, f'PFBF_denoised_output_{psnr_prbf:.2f}.png', output_image_uint8)
-Overall_comparision=os.path.join(output_dir, "Overall_compoarision.png")
+Overall_comparision=os.path.join(output_dir, "Overall_comparision.png")
 fontsize = 9
 plt.figure(figsize=(12, 6))
 
