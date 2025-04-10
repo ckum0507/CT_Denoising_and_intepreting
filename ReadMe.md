@@ -50,8 +50,9 @@ Comparision of all Denoising stages
 </p>
 
 ![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
-<p align='center'>
-  
-[Interpretation using AI models](Outputs/Aneurysm_Brain/log.txt)
 
-</p>
+The Comparision graph, plotting the SNR value of the image at each step of denoising will also be shown and saved in the output directory.
+
+![Alt text](Outputs/Aneurysm_Brain/SNR_graph.png)
+
+[Interpretation using AI models](Outputs/Aneurysm_Brain/log.txt)
