@@ -44,8 +44,8 @@ Comparision of all Denoising stages
 </p>
 
 ![Alt text](Outputs/Aneurysm_Brain/Overall_compoarision.png)
-Interpretation using AI models
+<p align='center'>
+  
+[Interpretation using AI models](Outputs/Aneurysm_Brain/log.txt)
 
-{raw}
-<include src="Outputs/Aneurysm_Brain/log.txt"/>
-{endraw}
+</p>
